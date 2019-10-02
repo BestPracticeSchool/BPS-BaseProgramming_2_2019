@@ -1,7 +1,9 @@
-
-![Иллюстрация к проекту](https://github.com/BestPracticeSchool/BaseProgramming/blob/master/Pictures/vkCover.png)
-
-[bestpracs.ru](https://bestpracs.ru/) - **School of Programming "Best Practice School"**
+<div style="text-align:center">
+  
+  ![Иллюстрация к проекту](https://github.com/BestPracticeSchool/BaseProgramming/blob/master/Pictures/vkCover.png)
+   [bestpracs.ru](https://bestpracs.ru/) - **School of Programming "Best Practice School"**
+     
+</div>
                                                     
                                                     
 Привет. Это репозитрий курса "Основы программирования" от BestPractice.
