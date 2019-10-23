@@ -1,0 +1,1 @@
+print(sum([1/(x**2) for x in range(int(input()), int(input())+1) if x != 0]))
