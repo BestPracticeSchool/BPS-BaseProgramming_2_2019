@@ -1,0 +1,6 @@
+Это BestPractice
+Мы во входном файле
+Разрешение у файла .txt
+Hey I'm here!
+Hey I'm here!
+Hey I'm here!
