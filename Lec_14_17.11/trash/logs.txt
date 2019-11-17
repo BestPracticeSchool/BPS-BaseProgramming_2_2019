@@ -1,0 +1,8 @@
+emojis_url https://api.github.com/emojis 200
+events_url https://api.github.com/events 200
+feeds_url https://api.github.com/feeds 200
+issue_search_url https://api.github.com/search/issues?q={query}{&page,per_page,sort,order} 200
+public_gists_url https://api.github.com/gists/public 200
+rate_limit_url https://api.github.com/rate_limit 200
+repository_search_url https://api.github.com/search/repositories?q={query}{&page,per_page,sort,order} 200
+user_search_url https://api.github.com/search/users?q={query}{&page,per_page,sort,order} 200
